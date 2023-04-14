@@ -4,4 +4,4 @@ Walkthrough creating a lightbox photo gallery when using Bootstrap5
 
 Using [Lightbox for Bootstrap 5](https://trvswgnr.github.io/bs5-lightbox/) by [Travis Aaron Wagner](https://travisaw.com/)
 
-![lightbox gallery image](/assets/lightbox2.png)
+![lightbox gallery image](/assets/lightbox3.png)
